@@ -1,0 +1,21 @@
+.heading{
+    box-shadow: 5px 5px 38px seagreen;
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+}
+
+.heading_div{
+    float: none;
+    background: goldenrod;
+    padding: 10px;
+    border-radius: 20px;
+    color: teal;
+    box-shadow: 5px 5px 38px chocolate;
+}
+
+.heading_div_dos{
+    font-size: 18px;
+    color:crimson;
+    background-color: navy;
+}
